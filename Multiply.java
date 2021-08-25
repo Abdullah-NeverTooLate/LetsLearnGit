@@ -6,7 +6,7 @@ public class Multiply {
 		// TODO Auto-generated method stub
 		int a = 5;
 		int b =10;
-		System.out.println("happy multiply: "+(a*b));
+		System.out.println("happy multiply is new: "+(a*b));
 	}
 
 }
